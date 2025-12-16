@@ -12,6 +12,7 @@
     "dark": "#206B6C"
   },
   "favicon": "/favicon.svg",
+  "versions": ["fr", "en"],
   "navigation": {
     "tabs": [
       {
