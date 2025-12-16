@@ -7,9 +7,7 @@
     "light": "https://res.cloudinary.com/dvilp6td2/image/upload/v1765878840/Yaburu_logo_iyvd8r.svg"
   },
   "colors": {
-    "primary": "#206B6C",
-    "light": "#00d5ff",
-    "dark": "#206B6C"
+    "primary": "#206B6C"
   },
   "favicon": "/favicon.svg",
   "navigation": {
